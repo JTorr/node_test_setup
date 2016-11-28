@@ -1,0 +1,14 @@
+{
+  "name": "euler_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {"babel": "^6.5.2"},
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
